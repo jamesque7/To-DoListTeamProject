@@ -50,8 +50,8 @@ Provides the user functionality to add tasks and organise their schedule.
 List nice-to-have features that would enhance the application but aren't strictly necessary:
 
 1. have a GUI displaying the tasks and their deadlines.
-2. 
-3.
+2. Display how long left you have to do your task 
+3. prompt the user for a task description
 4.
 
 ---
