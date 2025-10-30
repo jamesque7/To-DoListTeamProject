@@ -14,9 +14,10 @@
 After exploring existing to-do list applications (Microsoft To-Do, Trello, GitHub Projects, etc.), we observed the following common features:
 
 **What can these applications do?**
-- 
-- 
-- 
+-Allow users to create, edit and organize tasks
+-Set deadlines for tasks, and provide notifications when said deadlines are upcoming
+-Organize tasks by priority
+-Allow tasks to be synced across devices
 
 **What data do they store?**
 - They tend to store simple text data for task descriptions and titles. - These may be stored in different data structures such as dictionaries. They may also be stored in text files and read using file I/O features.
