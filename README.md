@@ -55,3 +55,19 @@ List nice-to-have features that would enhance the application but aren't strictl
 4.
 
 ---
+### 2.1 Task Data
+What information does each individual task need to store?
+
+| Data Field | Data Type | Purpose | Example |
+|------------|-----------|---------|---------|
+| task description | String | Describe the task | "Task A" |
+| Task deadline | date/time | Give a deadline for the task | 3:00, 18/05/10 |
+| task priority | integer | Allow us to sort tasks into most important tasks | 1 |
+
+---
+
+### 2.2 Task List Structure
+How will you store the collection of tasks?
+
+**Chosen Structure** (e.g., list of dictionaries, list of lists, list of tuples):
+Dictionaries, .txt file, list 
