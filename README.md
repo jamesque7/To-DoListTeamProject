@@ -26,9 +26,9 @@ After exploring existing to-do list applications (Microsoft To-Do, Trello, GitHu
 - Boolean data is stored to check wether tasks are complete or not.
 
 **How do they display data?**
-- 
-- 
-- 
+- format: clean user friendly interface for readability, in a text format
+- Priority: order tasks in order from highest to lowest priority or due date
+- graphs and images to show task completion percentages and more
 
 ---
 
