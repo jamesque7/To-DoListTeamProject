@@ -2,7 +2,11 @@
 
 **Team Name**: _________________
 
+<<<<<<< HEAD
 **Team Members**: James, Dillon, Ismael, Samuel
+=======
+**Team Members**: James, Dillon, Ismael 
+>>>>>>> Dillon-write-to-txt-file
 
 **Date**: 30/10/25
 
