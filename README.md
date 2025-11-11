@@ -2,7 +2,7 @@
 
 **Team Name**: _________________
 
-**Team Members**: James, Dillon, Ismael 
+**Team Members**: James, Dillon, Ismael, Sanuel
 
 **Date**: 30/10/25
 
